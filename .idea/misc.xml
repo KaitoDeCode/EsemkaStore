@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/EsemkaStore/app/src/main/res/drawable/edittext_border.xml" value="0.195" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/EsemkaStore/app/src/main/res/layout/activity_dashboard.xml" value="0.21041666666666667" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/EsemkaStore/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/EsemkaStore/app/src/main/res/layout/products_card.xml" value="0.22447916666666667" />
       </map>
     </option>
   </component>

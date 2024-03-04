@@ -2,6 +2,6 @@
     <solid android:color="@android:color/transparent" /> <!-- Warna latar belakang -->
     <stroke
         android:width="2dp"
-    android:color="@android:color/black"/>
+    android:color="@color/base"/>
     <corners android:radius="8dp" />
 </shape>
